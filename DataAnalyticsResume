@@ -1,0 +1,162 @@
+---
+title: "Vanessa Venkataraman"
+author: Vanessa A. Venkataraman
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # Thanks to Eric R. Scott for this tip! 
+    self_contained: false
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Data](data_icon.png){width=30%}
+<!-- ![Data](`r here::here("data_icon.png")`) -->
+
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i>vanessa.venkataraman@tufts.edu
+- <i class="fa fa-github"></i> [github.com/vvenka01/](https://github.com/vvenka01/)
+- <i class="fa fa-phone"></i> +1 401-651-2081
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Proficient in C++ and Python
+
+- Knowledge of R, Microsoft Excel, ArcGIS, and MATLAB
+
+- Experienced in data analysis with a focus on machine learning models
+
+- In the process of learning SQL and Tableau
+
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!--This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).-->
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Vanessa Venkataraman {#title}
+--------------------------------------------------------------------------------
+
+### Data Analytics student seeking Summer 2023 internship
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Tufts University
+
+MS Candidate in Data Analysis
+
+Medford, MA
+
+2022--Current
+
+
+### Tufts University
+
+B.A. in Community Health, Minor in Economics
+
+Medford, MA 
+
+2018--2022
+
+
+
+Work Experience {data-icon=flask}
+--------------------------------------------------------------------------------
+
+### Administrative Assistant
+
+Tufts University, Department of Economics
+
+Medford, MA
+
+2019--2022
+
+- Provided information about establishment, such as location of offices, employees within the organization, and services rendered 
+- Assisted in ordering, receiving, stocking, and distributing office supplies
+
+### Data Processing Intern
+
+The Welcome Project
+
+Somerville, MA
+
+2021--2021
+
+- Supported the coordination of data structures across programs
+- Assisted in organizing large amounts of confidential constituent data
+- Resolved discrepancies in information and obtained further information for incomplete data
+
+### IT Customer Support Specialist
+
+Tufts Technology Services
+
+Medford, MA
+
+2021-2021
+
+- Provided support to customers in need of personal computer maintenance or software troubleshooting
+- Utilized an ITSM ticketing system to manage support actions and requests
+- Answered questions and provided information to clients about technological resources on campus
+
+
+Selected Project Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### DATA-200 Foundations of Data Analyics 
+
+Tufts University
+
+Medford, MA
+
+2022--2022
+
+<!--::: concise-->
+- Deployed a project which predicted likelihood of gentrification in a metropolitan area with 78% accuracy.
+- Iterated the model to select the best approach, given random forest and logistic regression.
+<!--:::-->
+
+
+
+
+### DATA-201 Python and Machine Learning
+
+Tufts University
+
+Medford, MA
+
+2022 -- 2022
+
+- Evaluated 
+- Deployed a project which predicted the life stage of stellar objects with 98% accuracy
+- Iterated the model to select the best approach, given logistic regression and KNN.
+
+
+
+Selected Presentations {data-icon=comment-alt}
+--------------------------------------------------------------------------------
+### DATA-200 Final Project
+Presented a model for gentrification status detection, and summarized main results and assumptions of the model to my cohort. 
+
+Medford, MA
+
+December 2022
