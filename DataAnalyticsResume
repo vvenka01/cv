@@ -3,9 +3,9 @@ title: "Vanessa Venkataraman"
 author: Vanessa A. Venkataraman
 date: "`r Sys.Date()`"
 output: 
-  pagedown::html_resume:
+  pagedown::pdf_resume:
     # Thanks to Eric R. Scott for this tip! 
-    self_contained: false
+    self_contained: TRUE
 knit: pagedown::chrome_print
 ---
 
