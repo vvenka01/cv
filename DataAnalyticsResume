@@ -2,11 +2,11 @@
 title: "Vanessa Venkataraman"
 author: Vanessa A. Venkataraman
 date: "`r Sys.Date()`"
-output: pdf_document
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE, error= TRUE)
-```
+output: 
+  pagedown::html_resume:
+    # Thanks to Eric R. Scott for this tip! 
+    self_contained: false
+knit: pagedown::chrome_print
 ---
 
 Aside
